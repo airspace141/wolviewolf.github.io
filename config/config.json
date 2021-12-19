@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2F390f84a2F8DC3df03c89500A76A3548D0Cb661",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2f390f84a2f8dc3df03c89500a76a3548d0cb661",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Wolvie Wolf NFT",
+  "SYMBOL": "WOLV",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wolvie-wolf",
+  "SHOW_BACKGROUND": true
+}
